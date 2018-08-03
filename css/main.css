@@ -3061,7 +3061,7 @@ html.no-csstransitions .home-content__main {
 .contact-email {
   display: inline-block;
   font-family: "metropolis-light", sans-serif;
-  font-size: 4rem;
+  font-size: 3.4rem;
   line-height: 1.222;
   color: #ffffff;
   padding-top: 3.6rem;
@@ -3092,6 +3092,13 @@ html.no-csstransitions .home-content__main {
   margin-top: 2.4rem;
 }
 
+.contact-main .boardlist{
+  line-height:1.5;
+}
+
+.boardlist li{
+  padding-bottom: 2.8rem;
+}
 
 /* ------------------------------------------------------------------- 
  * ## contact social
@@ -3293,7 +3300,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .contact-email {
-    font-size: 4rem;
+    font-size: 3.4rem;
   }
 
   .contact-number {
