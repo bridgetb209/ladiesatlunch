@@ -214,7 +214,7 @@
         $('.testimonials__slider').slick({
             arrows: false,
             dots: true,
-            infinite: true,
+            infinite: false,
             slidesToShow: 2,
             slidesToScroll: 1,
             pauseOnFocus: false,
